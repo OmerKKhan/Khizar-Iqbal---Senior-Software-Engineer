@@ -11,6 +11,7 @@ using System;
 //Example 3: 2111
 //Example 4: 123
 
+
 class Program
 {
     public static void Main(string[] args)
